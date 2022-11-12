@@ -1,0 +1,24 @@
+P{
+    color: red
+}
+
+.green{
+    color:green
+}
+
+#purple{
+    color: purple
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+button{
+    color: white;
+    background: red;
+    padding: 10px;
+    border-radius: 10%;
+    border: 1 px solid red;
+}
